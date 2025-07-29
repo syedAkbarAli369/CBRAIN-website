@@ -1,0 +1,61 @@
+
+
+1. Project Setup and Folder Structure 
+2. Creating the Header 
+3. Creating the Hero Section 
+4. Adding robot image 
+5. Adding Parallax Background Animation 
+6. Implementing the Sign-Up Form Animation 
+7. Features Section 
+8. ChatApp Section 
+9. Generative Section 
+10. Pricing Section 
+11. Roadmap Section 
+12. Footer 
+13. Scroll Animation 
+14. Tablet Responsive 
+15. Mobile Responsive 
+16. Sidebar
+
+
+1. Timeline 
+2. ScrollTrigger 
+3. SplitText 
+4. trigger 
+5. start 
+6. end 
+7. opacity 
+8. duration
+9. ease 
+10. scrub 
+11. pin 
+12. pinSpacing 
+13. xPercent 
+14. yPercent 
+15. x 
+16. y 
+17. stagger 
+18. maskPosition 
+19. maskSize 
+20. "+=0.09"
+21. delay 
+22. markers 
+23. backgroundColor 
+24. backdropFilter 
+25. width 
+26. height 
+27. borderRadius 
+28. toggleActions
+29. rotateX 
+30. rotateY 
+31. ctx.revert()
+32. scale 
+33. onStart()
+34. transformOrigin 
+35. revertOnUpdate 
+36. clipPath 
+37. transformPerspective
+38. rotate 
+39. lineClass 
+40. marginTop 
+41. color 
